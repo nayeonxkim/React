@@ -1,0 +1,12 @@
+# 20230723 
+- 리액트 컴포넌트 생성
+- 컴포넌트 간 부모자식 관계 정의
+- 컴포넌트 내 State 정의
+- 부모 → 자식 props
+- 컴포넌트 내 Method 정의
+- redux/router 설치
+---
+- 라이프스타일 훅
+- react-router-dom 사용
+- Redux (store, reducers, actions, state) 사용
+- HTTP 요청 (fetch, axios)
